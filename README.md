@@ -1,2 +1,2 @@
 # bio-site
-Bio site build entirely with HTML and CSS
+My Bio site built entirely with HTML and CSS
